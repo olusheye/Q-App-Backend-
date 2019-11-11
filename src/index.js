@@ -52,7 +52,7 @@ const checkJwt = jwt({
   }),
 
   // Validate the audience and the issuer.
-  audience: "GmKWfc0wr01fnvCrIkyETHhfcxYBOU6n",
+  audience: "wE7Hdh7NNfA7K0UsMDX0ypVI53ReZaH4",
   issuer: `https://dev-uxk88vsp.auth0.com/`,
   algorithms: ["RS256"],
 });
